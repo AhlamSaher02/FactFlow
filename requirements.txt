@@ -1,0 +1,10 @@
+streamlit
+groq
+spacy
+textstat
+language-tool-python
+nltk
+requests
+sentence_transformer
+python-dotenv
+beautifulsoup4
